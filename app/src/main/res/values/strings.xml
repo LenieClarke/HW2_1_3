@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW2_1_3</string>
+    <string name="chooseStartDate">Дата-время старта задачи:</string>
+    <string name="chooseEndDate">Дата-время окончания задачи:</string>
+    <string name="btnOK">OK</string>
+    <string name="txtStartDate">Старт: %s</string>
+    <string name="txtEndDate">Окончание: %s</string>
+    <string name="toastError">Ошибка</string>
+    <string name="toastStartEnd">Старт: %s, окончаниe: %s</string>
+</resources>
